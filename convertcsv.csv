@@ -1,0 +1,7 @@
+Name,Department,Manager,Salary,share
+Robin Hood,,,200,34
+Arsene Wenger,Bar,Friar Tuck,50,34
+Friar Tuck,Foo,Robin Hood,100,6
+Little John,Foo,Robin Hood,100,53
+Sam Allardyce,,,250,98
+Dimi Berbatov,Foo,Little John,50,100
